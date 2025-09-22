@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mainmeister
 - 👀 I’m interested in audiophile, programming, HAM radio, electronics
-- 🌱 I’m currently learning advanced python version 11
+- 🌱 I’m currently learning advanced python version 13
 - 📫 How to reach me mailto:mainmeister@gmail.com https://bumblingelectron.blogspot.com/
 
 <!---
